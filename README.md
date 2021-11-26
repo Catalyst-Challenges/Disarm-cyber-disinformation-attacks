@@ -3,7 +3,7 @@ title: F7 - Disarm cyber disinformation attacks
 description: How can we prevent attempts to destabilize Cardano through Distributed Denial of Truth (DDoT) attack scenarios?
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26239
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
+![2021-11-26 (5)](https://user-images.githubusercontent.com/25156451/143626525-f6697f3c-39e6-432e-8c5d-4724214fb862.png)
 
 # F7 - Disarm cyber disinformation attacks
 
